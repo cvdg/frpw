@@ -2,6 +2,8 @@
 
 Create a `pwbbox` with `terraform` on `azure`.
 
+[HackTheBox](https://app.hackthebox.com/users/1110848)
+
 ## Login to Azure (once)
 
 ```shell
